@@ -6,7 +6,7 @@
 #include <vector>
 
 class TextGen {
-public:
+ public:
 typedef std::deque<std::string> prefix;
 int NPREF = 2;
 int MAXGEN = 1000;
